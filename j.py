@@ -1,7 +1,0 @@
-a=[1,2]; s=[1,'a']; print(a+s)
-import math;a=45;x=(math.cos(math.radians(a)));print(f'{x:.2}')
-my_tuple=(1,2,3,4,5,67,89); print(my_tuple[3])
-import math;a=30;x=(math.sin(math.radians(a)));print(f"{x:.2}")
-x=1000000;print(f"{x:_}")
-ss='informatika'; print(ss[2:9:2])
-f=open(E:\\2023\\Shahnoza.txt,’w’); s=[5*5 for i in range(10)]; f.write(str(s)); f.close()
